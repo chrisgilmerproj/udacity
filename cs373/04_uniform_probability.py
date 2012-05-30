@@ -1,7 +1,7 @@
 #! /usr/local/bin/python
 
 """
-Uniform Probability
+Unit 1, Part 4 - Uniform Probability
 
 Create an array where the probability that a car is in any place in the array
 is uniform.
